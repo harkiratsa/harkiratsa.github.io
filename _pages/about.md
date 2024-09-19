@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-[Curriculum Vitae (CV)](https://ralobos.github.io/files/CV_RLOBOS_OCT_2023.pdf)
+[Curriculum Vitae (CV)](https://ralobos.github.io/files/CV - Harkirat Singh Arora.pdf)
 
-I'm a postdoctoral researcher working under the guidance of Prof. Jeffrey Fessler, Prof. Douglas Noll, and Prof. Zhongming Liu at the University of Michigan. I completed my PhD studies at the University of Southern California working under the supervision of Prof. Justin Haldar.  My research interests include signal and image processing, magnetic resonance imaging (MRI), computational imaging, inverse problems, and the connections between machine learning and constrained image reconstruction.
+As a Ph.D. candidate in Biomedical Engineering at the University of Michigan, I am passionate about harnessing the power of machine learning and AI for medicine, particularly in the fight against antibiotic resistance. My research focuses on developing innovative ML-based tools to design safe and effective drug combination therapies for drug-resistant bacterial infections. Along with my research, I have gained experience in teaching, project ideation and development, science communication, data analysis, and team management. I am committed to advancing healthcare through cutting-edge research and am always eager to connect with like-minded professionals and industry leaders.
