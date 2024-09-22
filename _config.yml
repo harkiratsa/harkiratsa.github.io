@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Harkirat Singh Arora"
   avatar           : "profile-photo.jpg"
-  bio              : "Ph.D. Candidate at University of Michigan <b>hsarora@umich.edu</b>"
+  bio              : "Ph.D. Candidate at University of Michigan <br\> <b>hsarora@umich.edu</b>"
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           :
